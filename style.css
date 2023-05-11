@@ -1,0 +1,21 @@
+
+.music {
+    width: 50px;
+    height: 40px;
+    background-color: black;
+}
+.music-holder {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Comic Neue', cursive;
+    
+}
+
+audio::-webkit-media-controls-panel {
+    background-color: #56AEFF;
+  }
